@@ -5,4 +5,7 @@
  * @version: 1.0
  */
 public class Student {
+    private int age ; //年龄
+    private int sco ; //学号
+
 }
