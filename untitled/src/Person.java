@@ -7,6 +7,8 @@
 public class Person {
     private int age ; //
     private int stu ; //stu
+    private int aaa ; //aaaa
+
 
 
 }
